@@ -1,10 +1,3 @@
-"""
-Know more, visit my Python tutorial page: https://morvanzhou.github.io/
-My Youtube Channel: https://www.youtube.com/user/MorvanZhou
-
-Dependencies:
-tensorflow: 1.4.0
-"""
 
 import tensorflow as tf
 import multiprocessing as mp

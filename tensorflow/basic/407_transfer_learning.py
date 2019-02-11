@@ -1,17 +1,3 @@
-"""
-This is a simple example of transfer learning using VGG.
-Fine tune a CNN from a classifier to regressor.
-Generate some fake data for describing cat and tiger length.
-
-Fake length setting:
-Cat - Normal distribution (40, 8)
-Tiger - Normal distribution (100, 30)
-
-The VGG model and parameters are adopted from:
-https://github.com/machrisaa/tensorflow-vgg
-
-Learn more, visit my tutorial site: [莫烦Python](https://morvanzhou.github.io)
-"""
 
 from urllib.request import urlretrieve
 import os

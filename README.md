@@ -1,10 +1,10 @@
-﻿# [tutorial](https://github.com/tfzoo/tutorial) 
+﻿# [tutorials](https://github.com/tfzoo/tutorials) 
 
 [![sites](tfzoo/tfzoo.png)](http://www.tfzoo.com)
 
-## [简介](https://github.com/tfzoo/tutorial/wiki) 
+## [简介](https://github.com/tfzoo/tutorials/wiki) 
 
-一些tensorflow的基础项目和材料
+一些示例教程
 
 ## [组成](tfzoo/) 
 
