@@ -1,22 +1,20 @@
-﻿# [tutorials](https://github.com/tfzoo/tutorials) 
+﻿# [examples](https://github.com/tfzoo/examples) 
 
-[![sites](tfzoo/tfzoo.png)](http://www.tfzoo.com)
+#### qitas@qitas.cn 
+#### www.tfzoo.com
 
-## [简介](https://github.com/tfzoo/tutorials/wiki) 
+## [简介](https://github.com/tfzoo/examples/wiki) 
 
-一些示例教程
+tensorflow学习入门资料和示例代码整理
 
-## [组成](tfzoo/) 
+## [组成](https://github.com/tfzoo/examples/projects) 
 
 ####  [tensorflow](tensorflow/) 
 
 ####  [keras](keras/) 
 
-
----
-
-###  [tensorflow models zoo](http://www.tfzoo.com)
-####  qitas@qitas.cn
+[![sites](tfzoo/tfzoo.png)](http://www.tfzoo.com)
+####  [TensorFlow models Zoo](https://github.com/tfzoo)
 
 
 
